@@ -1,0 +1,23 @@
+{
+  "standard.enable": false,
+  "standard.autoFixOnSave": false,
+
+  "prettier.semi": false,
+  "prettier.singleQuote": true,
+  "prettier.jsxSingleQuote": true,
+  "prettier.spaceBeforeFunctionParen": true,
+  "prettier.jsonEnable": [],
+  "prettier.useTabs": false,
+  "prettier.tabWidth": 2,
+  "prettier.printWidth": 80,
+
+  "editor.tabSize": 2,
+  "editor.insertSpaces": true,
+  "editor.formatOnSave": true,
+
+  // Disable editor lint, use standard lint
+  "javascript.validate.enable": false,
+  "cSpell.language": "en,es",
+  "languageTool.language": "es",
+  "git.ignoreLimitWarning": true
+}
